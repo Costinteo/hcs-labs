@@ -1,0 +1,2 @@
+A friend of mine snapped a picture of a cybersecurity car and provoked me to find out where the car was! To make sure that I really knew the location, he also demands I send him the 3 words that describe the car's exact location. For example, he said that he was exactly at wires.distract.torch. To help me out, he mentioned that the first word that describes the car's location starts with the letter "d".
+Flag format: CSCTF{what.three.words} 

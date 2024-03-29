@@ -1,0 +1,16 @@
+Gata, ascultati aici, neispraviti de coasta, caci zilele mele sunt numarate. Am pitit comoara in cotloane negandite, iar ca sa o gasiti va trebui sa imi urmati instructiunile intocmai si sa nu va abateti:
+In al meu stang buzunar este harta Marii DieRechToryTree, ce indica insulele ce nu contin vreo comoara si, mai exact, insula pe care trebuie sa o aveti in vedere.
+Dupa ce ati navigat in lung si in lat si ati aflat unde X marcheaza locul, veti deschide comoara exact cum v-am instruit...
+Dupa ce cufarul va fi deschis, ei bine.. vedeti voi, pentru siguranta vietii mele, am infasurat continutul cat de strans am putut, fiecare nod interior fiind cu exact o masura mai slab decat nodul ce il cuprinde
+
+dificultate(nod_curent) = dificultate(nod_precedent) - 1
+
+N-ati inteles nimic!! Va mai explic odata:
+Ca sa desfaceti nodul 100, trebuie sa folositi nodul 99 ca secret.
+
+Gata!! Nu mai dau explicatii!! Peretii navei au urechi in fiecare colt!
+Odata ce ati reusit, imi veti privi comoara. Dar nu asa repede, tradatorilor, caci mai bine v-ati tine pliscurile si ati asculta! Ce vedeti in fata ochilor nu este decat un blestem al sirenelor. Doar una din viziunile ce vi se infatiseaza rapid in fata ochilor este adevarata comoara. Veti stii cand o veti vedea.
+
+V-ati prins? Bun. Pentru marele final, am utilizat doua codificari simple pentru a-i tine pe cei ingusti la minte departe. Odata ce ati terminat, comoara va fi a voastra si veti avea grija sa nu o irositi intr-un singur loc...
+
+<trebuie pornita instanta de pe cyber-edu>
